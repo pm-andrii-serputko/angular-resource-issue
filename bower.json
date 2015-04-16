@@ -1,0 +1,20 @@
+{
+  "name": "03",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Serputko <aserputko@gmail.com>"
+  ],
+  "main": "app/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-resource": "~1.3.15",
+    "angular": "~1.3.15"
+  }
+}
